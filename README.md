@@ -1,2 +1,4 @@
 # Power_BI_Project
-Its is power bi project for ecommerce for using power bi and data from excel
+Madhav Ecommerce Sale Dashboard.
+Its is Power BI Project For Ecommerce For Using Power BI and Data From Excel.
+there is excel file in csv format.
